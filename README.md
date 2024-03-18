@@ -1,4 +1,4 @@
-<H3>Name :Hraridharshini.S </H3>
+<H3>Name :Haridharshini.S </H3>
 <H3>Register no : 212221230033</H3>
 <H3>Date : 16.03.2024</H3>
 <H3>Experiment No. 2 </H3>
